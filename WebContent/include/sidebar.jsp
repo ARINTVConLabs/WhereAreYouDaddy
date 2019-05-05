@@ -7,31 +7,52 @@
 <jsp:include page="/include/libsimport.jsp"></jsp:include>
 </head>
 <body>
-	<div class="sidebar-wrap">
+	<div class="sidebar-wrap text-center">
+	<a href="#">
 		<div class="sidebar-item text-dark">
 		사이드바 1
 		</div>
+	</a>
+	<a href="#">
 		<div class="sidebar-item text-dark">
-		사이드바 2
+		사이드바 1
 		</div>
+	</a>
+	<a href="#">
 		<div class="sidebar-item text-dark">
-		사이드바 3
+		사이드바 1
 		</div>
+	</a>
+	<a href="#">
 		<div class="sidebar-item text-dark">
-		사이드바 4
+		사이드바 1
 		</div>
+	</a>
+	<a href="#">
 		<div class="sidebar-item text-dark">
-		사이드바 5
+		사이드바 1
 		</div>
+	</a>
+	<a href="#">
 		<div class="sidebar-item text-dark">
-		사이드바 6
+		사이드바 1
 		</div>
+	</a>
+	<a href="#">
 		<div class="sidebar-item text-dark">
-		사이드바 7
+		사이드바 1
 		</div>
+	</a>
+	<a href="#">
 		<div class="sidebar-item text-dark">
-		사이드바 8
+		사이드바 1
 		</div>
+	</a>
+	<a href="#">
+		<div class="sidebar-item text-dark">
+		사이드바 1
+		</div>
+	</a>
 	</div>
 </body>
 </html>

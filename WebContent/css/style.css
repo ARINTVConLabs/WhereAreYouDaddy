@@ -8815,7 +8815,7 @@ textarea.form-control {
   color: rgba(255, 255, 255, 0.8); }
 
 .sidebar-wrap {
-  padding: 20px;
+  padding: 20px 0 20px 0;
   border: 1px solid #e6e6e6;
   margin-bottom: 30px; }
   .sidebar-wrap .heading {
@@ -9108,3 +9108,20 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+/* addition css */
+.sidebar-item {
+	padding-top: 1em;
+	padding-left: 0;
+	padding-right: 0;
+	padding-bottom: 1em;
+}    
+.sidebar-item:hover {
+	background-color: #1be;
+	padding-top: 1em;
+	padding-left: 0;
+	padding-right: 0;
+	padding-bottom: 1em;
+}  
+    
+    
