@@ -7,6 +7,15 @@
 <title>아빠! 어디가!</title>
 </head>
 <body>
-	${ CON_PATH }
+<jsp:include page="/include/header.jsp"/>
+    
+    <section class="ftco-section bg-light text-dark">
+    	<div class="container">
+    		<div class="row">
+    			aaaaa
+		    </div>
+    	</div>
+    </section>
+    
 </body>
 </html>
