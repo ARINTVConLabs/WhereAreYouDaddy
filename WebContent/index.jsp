@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>아빠! 어디가!</title>
 </head>
 <body>
-
+	${ CON_PATH }
 </body>
 </html>
