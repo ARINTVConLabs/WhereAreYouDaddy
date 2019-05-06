@@ -9124,4 +9124,9 @@ textarea.form-control {
 	padding-bottom: 1em;
 }  
     
+.internal-area-sideline {
+	border: 1px solid gray;
+	padding: 10px;
+	margin: 10px;
+}
     
